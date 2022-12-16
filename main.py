@@ -1,0 +1,1 @@
+print('xz_donbass')
